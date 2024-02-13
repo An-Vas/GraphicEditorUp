@@ -1,0 +1,4 @@
+C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/GraphicEditorUp.dir
+C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/GraphicEditorUp_autogen.dir

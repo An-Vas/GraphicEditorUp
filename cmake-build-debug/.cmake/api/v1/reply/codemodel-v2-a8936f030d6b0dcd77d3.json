@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GraphicEditorUp",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GraphicEditorUp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GraphicEditorUp-Debug-14fd2c946a969f3b8958.json",
+					"name" : "GraphicEditorUp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GraphicEditorUp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GraphicEditorUp_autogen-Debug-b71e98ab489a02303f9b.json",
+					"name" : "GraphicEditorUp_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug",
+		"source" : "C:/Programming/CLion/GraphicEditorUp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,284 @@
+{
+	"BUILD_DIR" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/GraphicEditorUp_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Programming/CLion/GraphicEditorUp",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Programming/CLion/GraphicEditorUp/CMakeLists.txt",
+		"C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake",
+		"C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake",
+		"C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeParseArguments.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Programming/CLion/GraphicEditorUp",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Programming/CLion/GraphicEditorUp/BasicAlgorithms/FileManager.h",
+			"MU",
+			"3IKFQLCBDP/moc_FileManager.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/Design/MainWindow.h",
+			"MU",
+			"O452EBGWYY/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/BasicAlgorithms.h",
+			"MU",
+			"JP4JFWXZGU/moc_BasicAlgorithms.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/ColorSpacesInterpreter.h",
+			"MU",
+			"JP4JFWXZGU/moc_ColorSpacesInterpreter.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/Disiring.h",
+			"MU",
+			"JP4JFWXZGU/moc_Disiring.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/Filtrator.h",
+			"MU",
+			"JP4JFWXZGU/moc_Filtrator.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/GammaChanger.h",
+			"MU",
+			"JP4JFWXZGU/moc_GammaChanger.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/GistagramChanger.h",
+			"MU",
+			"JP4JFWXZGU/moc_GistagramChanger.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/JpegInterpreter.h",
+			"MU",
+			"JP4JFWXZGU/moc_JpegInterpreter.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/LineDrawer.h",
+			"MU",
+			"JP4JFWXZGU/moc_LineDrawer.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/PngInterpreter.h",
+			"MU",
+			"JP4JFWXZGU/moc_PngInterpreter.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/Scaler.h",
+			"MU",
+			"JP4JFWXZGU/moc_Scaler.cpp",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/UltimateColor.h",
+			"MU",
+			"JP4JFWXZGU/moc_UltimateColor.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/GraphicEditorUp_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/GraphicEditorUp_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Programming/CLion/Libraries/libdeflate-1.19-windows-x86_64-bin",
+		"C:/Programming/CLion/Libraries/libdeflate-1.19",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/include",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtCore",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/mkspecs/win32-g++",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtGui",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtANGLE",
+		"C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/include",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/x86_64-w64-mingw32/include",
+		"/MinGW/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/JetBrains/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/GraphicEditorUp_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/GraphicEditorUp_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Programming/CLion/Libraries/Qt/Qt5.12.12/5.12.12/mingw73_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "C:/Programming/CLion/GraphicEditorUp/cmake-build-debug/CMakeFiles/GraphicEditorUp_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Programming/CLion/GraphicEditorUp/BasicAlgorithms/FileManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/Design/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/BasicAlgorithms.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/ColorSpacesInterpreter.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/Disiring.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/Filtrator.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/GammaChanger.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/GistagramChanger.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/JpegInterpreter.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/LineDrawer.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/PngInterpreter.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/Scaler.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Programming/CLion/GraphicEditorUp/GraphicAlgorithms/UltimateColor.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Programming/CLion/GraphicEditorUp/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
